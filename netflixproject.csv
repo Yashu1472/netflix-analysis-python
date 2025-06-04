@@ -1,0 +1,4 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+s1,Movie,Movie A,Director X,"Actor A, Actor B",India,2021-01-01,2020,TV-14,90 min,Drama,Description A
+s2,TV Show,Show B,Director Y,"Actor C, Actor D",USA,2020-06-15,2019,PG,2 Seasons,"Comedy, Drama",Description B
+s3,Movie,Movie C,Director Z,Actor E,UK,2019-12-20,2018,R,120 min,Action,Description C
